@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OFFICE SUPPLY MONITORING SYSTEM/1.0.0": {
+        "runtime": {
+          "OFFICE SUPPLY MONITORING SYSTEM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OFFICE SUPPLY MONITORING SYSTEM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
